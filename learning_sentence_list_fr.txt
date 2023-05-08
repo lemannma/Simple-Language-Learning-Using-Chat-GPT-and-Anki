@@ -1,0 +1,522 @@
+Je voudrais un café, s'il vous plaît. : Ich möchte einen Kaffee, bitte.
+Où est la gare? : Wo ist der Bahnhof?
+J'ai besoin d'aide. : Ich brauche Hilfe.
+Je ne comprends pas. : Ich verstehe nicht.
+Je suis désolé. : Es tut mir leid.
+Je m'appelle Sophie. : Ich heiße Sophie.
+Je ne parle pas français. : Ich spreche kein Französisch.
+Combien coûte ceci? : Wie viel kostet das?
+Pouvez-vous me dire où se trouve le musée? : Können Sie mir sagen, wo sich das Museum befindet?
+Avez-vous des enfants? : Haben Sie Kinder?
+Je vais bien, merci. : Mir geht es gut, danke.
+Je cherche un hôtel. : Ich suche ein Hotel.
+Je veux aller à la plage. : Ich will an den Strand.
+Je pars en vacances demain. : Ich fahre morgen in den Urlaub.
+Je reviendrai la semaine prochaine. : Ich werde nächste Woche zurückkommen.
+Je veux rentrer à la maison. : Ich will nach Hause.
+Je ne sais pas. : Ich weiß es nicht.
+Je suis fatigué. : Ich bin müde.
+Je dois y aller. : Ich muss gehen.
+Je reviendrai bientôt. : Ich werde bald zurückkommen.
+Je t'aime. : Ich liebe dich.
+Je te hais. : Ich hasse dich.
+Je veux te voir. : Ich will dich sehen.
+Je ne peux pas te voir. : Ich kann dich nicht sehen.
+Je suis malade. : Ich bin krank.
+Je suis en colère. : Ich bin wütend.
+Je suis triste. : Ich bin traurig.
+Je suis content. : Ich bin glücklich.
+Je vais au cinéma. : Ich gehe ins Kino.
+Nous avons besoin d'aide. : Wir brauchen Hilfe.
+Je ne peux pas le croire! : Ich kann es nicht glauben!
+Tu es trop intelligent. : Du bist zu intelligent.
+Elle aime le chocolat. : Sie liebt Schokolade.
+Nous avons mangé hier hier. : Wir haben hier gegessen.
+Ils ont dit non. : Sie haben Nein gesagt.
+Je ne sais pas. : Ich weiß nicht.
+Je ne veux pas y aller. : Ich will nicht dorthin gehen.
+Je ne suis pas d'accord. : Ich bin nicht einverstanden.
+Tu es trop nul. : Du bist zu blöd.
+Je vais au travail. : Ich gehe zur Arbeit.
+Je rentre à la maison. : Ich gehe nach Hause.
+Je n'aime pas ça. : Ich mag das nicht.
+Je vais bien. : Mir geht es gut.
+Je vais mieux. : Ich gehe besser.
+Je suis heureux. : Ich bin glücklich.
+Je vais mal. : Mir geht es schlecht.
+Je suis surpris. : Ich bin überrascht.
+Je suis déçu. : Ich bin enttäuscht.
+Je mange du as, plus tu grossis. : Je mehr du isst, desto mehr nimmst du zu.
+Nous avons besoin de toi. : Wir brauchen dich.
+Il fait chaud aujourd'hui. : Es ist heute warm.
+Je vais te voir demain. : Ich sehe dich morgen.
+Je l'ai vu hier hier. : Ich habe ihn hier gesehen.
+Je ne l'ai jamais vu. : Ich habe ihn nie gesehen.
+Je ne peux pas le faire. : Ich kann das nicht tun.
+Je ne sais pas comment le faire. : Ich weiß nicht, wie man das macht.
+Je ne veux pas le faire. : Ich will das nicht tun.
+Je ne sais pas où il est. : Ich weiß nicht, wo er ist.
+Je ne sais pas où elle est. : Ich weiß nicht, wo sie ist.
+Je ne sais pas ce qu'il fait. : Ich weiß nicht, was er macht.
+Je ne sais pas ce qu'elle fait. : Ich weiß nicht, was sie macht.
+Je ne sais pas ce qu'ils font. : Ich weiß nicht, was sie tun.
+Je ne sais pas ce qu'elles font. : Ich weiß nicht, was sie tun.
+Je mange des fruits. : Ich esse viele Früchte.
+Tu as besoin d'aide? : Brauchst du Hilfe?
+J'ai froid. : Ich habe kalt.
+Il fait chaud. : Es ist heiß.
+Je vais au cinema. : Ich gehe ins Kino.
+Je suis fatiguée. : Ich bin müde.
+Je suis content. : Ich bin zufrieden.
+Je veux aller à la plage. : Ich will zum Strand.
+Je n'ai pas soif. : Ich habe keinen Durst.
+Je n'ai pas faim. : Ich habe keinen Hunger.
+Je m'appelle Marie. : Ich heiße Marie.
+Je suis française. : Ich bin Französin.
+Je parle anglais. : Ich spreche Englisch.
+Je suis étudiante. : Ich bin Studentin.
+J'ai 20 ans. : Ich bin 20 Jahre alt.
+Je viens de Paris. : Ich komme aus Paris.
+Je suis en vacances. : Ich bin im Urlaub.
+Je cherche un emploi. : Ich suche einen Job.
+Je voudrais un café. : Ich möchte einen Kaffee.
+Je prends le bus. : Ich nehme den Bus.
+Je vais à pied. : Ich gehe zu Fuß.
+Je fais du vélo. : Ich fahre Fahrrad.
+Je prends le train. : Ich nehme den Zug.
+Je fais de mon mieux. : Ich gebe mein Bestes.
+Je n'arrive pas à croire que tu sois ici. : Ich kann es nicht glauben, dass du hier bist.
+Je voudrais un café, s'il vous plaît. : Ich möchte bitte einen Kaffee.
+Je ne sais pas ce qu'il faut faire. : Ich weiß nicht, was ich tun soll.
+Je ne peux pas le faire. : Ich kann es nicht tun.
+Je ne suis pas sûr. : Ich bin mir nicht sicher.
+Je ne suis pas d'accord. : Ich stimme nicht zu.
+Je ne suis pas sûr de comprendre. : Ich bin mir nicht sicher, ob ich verstehe.
+Je pense que je comprends. : Ich glaube, ich verstehe.
+Je ne suis pas sûr de savoir. : Ich bin mir nicht sicher, ob ich es weiß.
+Je ne sais pas ce que c'est. : Ich weiß nicht, was das ist.
+Je ne sais pas comment faire. : Ich weiß nicht, wie ich es machen soll.
+Je ne sais pas ce que tu veux dire. : Ich weiß nicht, was du meinst.
+Je ne sais pas ce qu'il va faire. : Ich weiß nicht, was er tun wird.
+Je ne sais pas ce qu'il a fait. : Ich weiß nicht, was er getan hat.
+Je ne sais pas s'il est là. : Ich weiß nicht, ob er da ist.
+Je ne sais pas s'il est venu. : Ich weiß nicht, ob er gekommen ist.
+Je ne sais pas s'il est parti. : Ich weiß nicht, ob er gegangen ist.
+Je ne sais pas ce qu'il veut. : Ich weiß nicht, was er will.
+Je ne sais pas ce qu'il dit. : Ich weiß nicht, was er sagt.
+Je ne sais pas ce qu'il a dit. : Ich weiß nicht, was er gesagt hat.
+Je ne sais pas ce qu'il a fait hier. : Ich weiß nicht, was er hier gemacht hat.
+Je ne sais pas s'il a compris. : Ich weiß nicht, ob er es verstanden hat.
+Je ne sais pas s'il a entendu. : Ich weiß nicht, ob er es gehört hat.
+Je ne sais pas ce qu'il en pense. : Ich weiß nicht, was er davon hält.
+Qu'est-ce que c'est? : Was ist das?
+Où est-ce que tu vas? : Wo gehst du hin?
+Tu es belle. : Du bist schön.
+Merci. : Danke.
+S'il vous plaît. : Bitte.
+Tu es stupide. : Du bist dumm.
+Je ne peux pas. : Ich kann nicht.
+Je ne veux pas. : Ich will nicht.
+Je n'ai pas de temps. : Ich habe keine Zeit.
+Je reviendrai. : Ich werde zurückkommen.
+Je te verrai demain. : Ich sehe dich morgen.
+Je ne sais pas comment faire. : Ich weiß nicht, wie man es macht.
+Je ne sais pas pourquoi. : Ich weiß nicht, warum.
+Je ne sais pas quand. : Ich weiß nicht, wann.
+Je ne sais pas qui. : Ich weiß nicht, wer.
+Je ne sais pas ce que tu as. : Ich weiß nicht, was du hast.
+Je ne sais pas ce que tu veux. : Ich weiß nicht, was du willst.
+Je ne sais pas ce que tu fais. : Ich weiß nicht, was du tust.
+Je ne sais pas ce que tu dis. : Ich weiß nicht, was du sagst.
+Je ne sais pas ce que tu penses. : Ich weiß nicht, was du denkst.
+Je mange des tomates. : Ich esse Tomaten.
+Tu aime les pommes? : Magst du Äpfel?
+Nous avons besoin de farine. : Wir brauchen Mehl.
+Elle a peur des araignées. : Sie hat Angst vor Spinnen.
+Je ne suis pas fatigué. : Ich bin nicht müde.
+Je vais te montrer. : Ich werde es dir zeigen.
+est-ce que vous avez soif? : Haben Sie Durst?
+Comment allez:vous? : Wie geht es Ihnen?
+Au revoir. : Auf Wiedersehen.
+Bonjour. : Guten Tag.
+Bonne nuit. : Gute Nacht.
+Je m'appelle... : Ich heiße...
+Enchanté. : Angenehm.
+Je suis de... : Ich bin aus...
+Je cherche... : Ich suche...
+Je voudrais... : Ich möchte...
+Où est... : Wo ist...
+Quand est... : Wann ist...
+Comment est... : Wie ist...
+Combien est... : Wie viel ist...
+Pouvez-vous m'aider? : Können Sie mir helfen?
+Je vais au supermarché. : Ich gehe zum Supermarkt.
+Nous avons un nouveau voisin. : Wir haben einen neuen Nachbarn.
+Il fait beau aujourd'hui. : Es ist schön heute.
+Je mange une pomme. : Ich esse einen Apfel.
+Tu as peur du noir? : Hast du Angst vor der Dunkelheit?
+Elle est jolie, ta nouvelle robe! : Deine neue Robe ist hübsch!
+Vous êtes fatigués? : Seid ihr müde?
+Où est la bibliothèque? : Wo ist die Bibliothek?
+Tu as raison. : Du hast Recht.
+Je suis désolé(e). : Es tut mir leid.
+Merci beaucoup! : Vielen Dank!
+Pas de problème. : Kein Problem.
+Excusez-moi. : Entschuldigen Sie bitte.
+Je cherche le musée. : Ich suche das Museum.
+Je voudrais aller au cinéma. : Ich möchte ins Kino gehen.
+Avez-vous une chambre disponible? : Haben Sie ein Zimmer frei?
+Je voudrais réserver une table pour deux. : Ich möchte einen Tisch für zwei Personen reservieren.
+Je voudrais payer, s'il vous plaît. : Ich möchte bitte bezahlen.
+Je ne parle pas anglais. : Ich spreche kein Englisch.
+Je ne sais pas comment on dit ça en anglais. : Ich weiß nicht, wie man das auf Englisch sagt.
+Quelle heure est-il? : Wie spät ist es?
+Je voudrais aller à la gare. : Ich möchte zum Bahnhof gehen.
+Il a fait beau aujourd'hui. : Es war heute schön.
+Je suis allé au cinéma. : Ich bin ins Kino gegangen.
+Merci beaucoup. : Vielen Dank.
+Je voudrais un croissant. : Ich möchte ein Croissant.
+Avez-vous du pain? : Haben Sie Brot?
+Je voudrais du pain. : Ich möchte Brot.
+Je mange du pain. : Ich esse Brot.
+J'ai soif. : Ich habe Durst.
+J'ai faim. : Ich habe Hunger.
+A bientôt. : Bis bald.
+Ça va bien. : Es geht gut.
+Je vais au marché. : Ich gehe zum Markt.
+Nous allons en ville. : Wir gehen in die Stadt.
+Tu vas bien ? : Geht es dir gut?
+Je ne vais pas bien. : Mir geht es nicht gut.
+Il va au travail. : Er geht zur Arbeit.
+Elle va chercher ses enfants. : Sie holt ihre Kinder ab.
+Ils vont en vacances. : Sie gehen in den Urlaub.
+Vous allez prendre le bus. : Sie werden den Bus nehmen.
+Je suis allé(e) au supermarché. : Ich bin zum Supermarkt gegangen.
+Nous sommes allés(es) en ville. : Wir sind in die Stadt gegangen.
+Tu es allé(e) bien ? : War es dir gut?
+Je ne suis pas allé(e) bien. : Es war mir nicht gut.
+Il est allé au travail. : Er ist zur Arbeit gegangen.
+Elle est allée chercher ses enfants. : Sie hat ihre Kinder abgeholt.
+Ils sont allés en vacances. : Sie sind in den Urlaub gegangen.
+Vous êtes allés prendre le bus. : Sie sind den Bus gefahren.
+Je vais aller au marché. : Ich werde zum Markt gehen.
+Nous allons aller en ville. : Wir werden in die Stadt gehen.
+Tu vas aller bien ? : Wirst du gut sein?
+Je ne vais pas aller bien. : Ich werde nicht gut sein.
+Il va aller au travail. : Er wird zur Arbeit gehen.
+Elle va aller chercher ses enfants. : Sie wird ihre Kinder abholen.
+Ils vont aller en vacances. : Sie werden in den Urlaub gehen.
+Vous allez aller prendre le bus. : Sie werden den Bus nehmen.
+Je suis allé(e) au marché. : Ich bin zum Markt gegangen.
+Il fait beau aujourd'hui. : Es ist heute schön.
+Nous allons au cinéma. : Wir gehen ins Kino.
+Tu es fatigué. : Du bist müde.
+Il a peur des chats. : Er hat Angst vor Katzen.
+Elle est jolie. : Sie ist hübsch.
+Où est le bibliothèque? : Wo ist die Bibliothek?
+Avez-vous un stylo? : Haben Sie einen Stift?
+Pardon? : Entschuldigung?
+Ce n'est pas grave. : Das ist nicht schlimm.
+Il est tard. : Es ist spät.
+À bientôt. : Bis bald.
+Je voudrais… : Ich möchte…
+Excusez-moi. : Entschuldigen Sie mich.
+Je cherche… : Ich suche…
+Je ne trouve pas. : Ich finde nicht.
+Nous allons en France. : Wir fahren nach Frankreich.
+Tu as un chat. : Du hast eine Katze.
+Il a une voiture. : Er hat ein Auto.
+Elle est grande. : Sie ist groß.
+Je lis un livre. : Ich lese ein Buch.
+Tu écris une lettre. : Du schreibst einen Brief.
+Il fait beau. : Es ist schön.
+Je viens de France. : Ich komme aus Frankreich.
+Tu t'appelles Jean. : Du heißt Jean.
+Il s'appelle Pierre. : Er heißt Pierre.
+Je suis grande. : Ich bin groß.
+Tu es petit. : Du bist klein.
+Il est moyen. : Er ist mittelgroß.
+Je suis à la maison. : Ich bin zu Hause.
+Tu es à l'école. : Du bist in der Schule.
+Il est au travail. : Er ist arbeiten.
+Je vais à l'école. : Ich gehe in die Schule.
+Je vais à la bibliothèque. : Ich gehe in die Bibliothek.
+Je vais à la piscine. : Ich gehe ins Schwimmbad.
+Je vais au restaurant. : Ich gehe in ein Restaurant.
+Je vais au club. : Ich gehe in einen Club.
+Je vais à la plage. : Ich gehe zum Strand.
+Je vais à la montagne. : Ich gehe in die Berge.
+Je vais à la campagne. : Ich gehe aufs Land.
+Tu prends le bus. : Du nimmst den Bus.
+Ils sont heureux. : Sie sind glücklich.
+Tu as un chien. : Du hast einen Hund.
+Il a une soeur. : Er hat eine Schwester.
+Nous avons un chat. : Wir haben eine Katze.
+Il conduit une voiture. : Er fährt ein Auto.
+Nous habitons une maison. : Wir wohnen in einem Haus.
+Je prends un bain. : Ich nehme ein Bad.
+Tu téléphones à ton ami. : Du rufst deinen Freund an.
+Il fait la vaisselle. : Er macht die Geschirr.
+Nous faisons les lits. : Wir machen die Betten.
+Je mets les poubelles à la rue. : Ich stelle die Mülltonnen auf die Straße.
+Tu as peur des orages. : Du hast Angst vor Gewittern.
+Il y a un arbre dans le jardin. : Es gibt einen Baum im Garten.
+Je joue au tennis. : Ich spiele Tennis.
+Tu nages dans la piscine. : Du schwimmst im Pool.
+Il fait du vélo. : Er fährt Fahrrad.
+Nous allons à la plage. : Wir gehen zum Strand.
+Je fais du jogging. : Ich gehe joggen.
+Tu sautes à la corde. : Du springst Seil.
+Il fait de la musique. : Er macht Musik.
+Nous dansons ensemble. : Wir tanzen zusammen.
+Nous prenons le petit déjeuner ensemble. : Wir frühstücken zusammen.
+Il fait beau aujourd'hui. : Es ist schönes Wetter heute.
+Je vais te montrer. : Ich werde dir zeigen.
+Je pense que oui. : Ich denke, ja.
+Oui, bien sûr. : Ja, natürlich.
+Qui est là? : Wer ist da?
+Je viens juste de manger. : Ich habe gerade gegessen.
+Je ne mange pas de viande. : Ich esse kein Fleisch.
+Je veux rentrer chez moi. : Ich will nach Hause gehen.
+Je ne peux pas rentrer chez moi. : Ich kann nicht nach Hause gehen.
+Je ne sais pas ce que je vais faire. : Ich weiß nicht, was ich tun werde.
+Je ne peux pas te le dire. : Ich kann es dir nicht sagen.
+Je ne veux pas te le dire. : Ich will es dir nicht sagen.
+Je pense que tu devrais y aller. : Ich denke, du solltest gehen.
+Je ne pense pas que tu devrais y aller. : Ich denke nicht, du solltest gehen.
+Je ne sais pas ce que tu devrais faire. : Ich weiß nicht, was du tun solltest.
+Je ne veux pas que tu le fasses. : Ich will nicht, dass du es tust.
+Qu'est-ce que tu veux faire? : Was willst du tun?
+Je ne sais pas comment le faire. : Ich weiß nicht, wie ich es tun soll.
+Je ne veux pas le faire. : Ich will es nicht tun.
+Tu devrais le faire. : Du solltest es tun.
+Nous habitons à Paris. : Wir wohnen in Paris.
+Elle aime les animaux. : Sie liebt Tiere.
+Ils vont en France. : Sie fahren nach Frankreich.
+Tu as soif. : Du hast Durst.
+Nous jouons au tennis. : Wir spielen Tennis.
+Vous êtes en retard. : Sie sind zu spät.
+Je veux aller en France. : Ich will nach Frankreich.
+Nous allons au marché. : Wir gehen auf den Markt.
+Je fais mes devoirs. : Ich mache meine Hausaufgaben.
+Je vais me coucher. : Ich gehe ins Bett.
+Je dors. : Ich schlafe.
+Je me réveille. : Ich werde wach.
+Je me lève. : Ich stehe auf.
+Je prends une douche. : Ich dusche.
+Je me prépare. : Ich mache mich bereit.
+Je suis allé au marché. : Ich bin zum Markt gegangen.
+Nous avons mangé au restaurant. : Wir haben im Restaurant gegessen.
+Tu as acheté des fruits. : Du hast Früchte gekauft.
+Elle a fait du pain. : Sie hat Brot gebacken.
+Ils ont joué au tennis. : Sie haben Tennis gespielt.
+Vous avez lu un livre. : Sie haben ein Buch gelesen.
+Je vais faire du jogging. : Ich werde Jogging machen.
+Tu vas nager. : Du wirst schwimmen.
+Elle va faire la cuisine. : Sie wird kochen.
+Ils vont étudier. : Sie werden studieren.
+Vous allez travailler. : Sie werden arbeiten.
+Nous avons fait la fête. : Wir haben gefeiert.
+Je suis allé(e) au travail. : Ich bin zur Arbeit gegangen.
+Nous avons mangé à la maison. : Wir haben zu Hause gegessen.
+Tu as fait les courses. : Du hast einkaufen gegangen.
+Elle a pris le bus. : Sie ist mit dem Bus gefahren.
+Ils ont pris le train. : Sie sind mit dem Zug gefahren.
+Vous avez étudié. : Sie haben studiert.
+Nous avons travaillé. : Wir haben gearbeitet.
+Je suis allé(e) au cinéma. : Ich bin ins Kino gegangen.
+Nous avons joué au football. : Wir haben Fußball gespielt.
+Tu as fait du vélo. : Du hast Rad gefahren.
+Elle a fait de la natation. : Sie hat geschwommen.
+Ils ont fait de la randonnée. : Sie haben gewandert.
+Vous avez fait du jogging. : Sie haben Jogging gemacht.
+Nous avons nagé. : Wir sind geschwommen.
+Je suis allé(e) au travail à pied. : Ich bin zur Arbeit gelaufen.
+Nous avons pris le bus pour aller au travail. : Wir sind mit dem Bus zur Arbeit gefahren.
+Tu as fait du vélo pour aller au travail. : Du hast Rad zur Arbeit gefahren.
+Tu as mangé des pommes. : Du hast Äpfel gegessen.
+Vous avez bu du vin. : Ihr habt Wein getrunken.
+Il/Elle a fait la vaisselle. : Er/Sie hat das Geschirr abgewaschen.
+Ils/Elles ont joué au football. : Sie haben Fußball gespielt.
+Je suis allé/e au cinéma. : Ich bin ins Kino gegangen.
+Nous sommes allés/allées en boîte. : Wir sind in eine Diskothek gegangen.
+Tu es allé/e chez le médecin. : Du bist zum Arzt gegangen.
+Vous êtes allés/allées au supermarché. : Ihr seid zum Supermarkt gegangen.
+J'irai au marché demain. : Ich werde morgen zum Markt gehen.
+Nous irons en ville samedi. : Wir werden am Samstag in die Stadt gehen.
+Tu mangeras des pommes ce soir. : Du wirst heute Abend Äpfel essen.
+Vous boirez du vin ce week:end. : Ihr werdet dieses Wochenende Wein trinken.
+Il/Elle fera la vaisselle ce soir. : Er/Sie wird heute Abend das Geschirr abwaschen.
+Ils/Elles joueront au football dimanche. : Sie werden am Sonntag Fußball spielen.
+Je suis allé/e au cinéma hier. : Ich bin gestern ins Kino gegangen.
+Nous sommes allés/allées en boîte la semaine dernière. : Wir sind letzte Woche in eine Diskothek gegangen.
+Tu es allé/e chez le médecin l'année dernière. : Du bist vor einem Jahr zum Arzt gegangen.
+Vous êtes allés/allées au supermarché il y a deux jours. : Ihr seid vor zwei Tagen zum Supermarkt gegangen.
+J'irai au marché demain. : Ich gehe morgen zum Markt.
+Nous irons en ville samedi. : Wir gehen am Samstag in die Stadt.
+Je suis allé/e au cinéma hier. : Ich bin heute ins Kino gegangen.
+Nous sommes allés/allées en boîte la semaine dernière. : Wir waren letzte Woche in einer Diskothek.
+Vous êtes allés/allées au supermarché il y a deux jours. : Ihr wart vor zwei Tagen im Supermarkt.
+Nous avons mangé hier. : Wir haben hier gegessen.
+Il est allé au marché. : Er ist auf den Markt gegangen.
+Je vais faire mes devoirs. : Ich werde meine Hausaufgaben machen.
+Tu as mangé avec ton ami. : Du hast mit deinem Freund gegessen.
+Elle est allée chercher le pain. : Sie ist zum Brot holen gegangen.
+J'ai fait mes devoirs. : Ich habe meine Hausaufgaben gemacht.
+Vous avez mangé au restaurant. : Sie haben im Restaurant gegessen.
+Ils sont allés faire les courses. : Sie sind einkaufen gegangen.
+Je vais au marché. : Ich gehe auf den Markt.
+Nous avons fait les courses. : Wir sind einkaufen gegangen.
+Il est allé au cinéma. : Er ist ins Kino gegangen.
+Je vais chercher le pain. : Ich gehe zum Brot holen.
+Tu as fait tes devoirs. : Du hast deine Hausaufgaben gemacht.
+Elle est allée au marché. : Sie ist auf den Markt gegangen.
+J'ai mangé avec mon ami. : Ich habe mit meinem Freund gegessen.
+Vous avez fait vos devoirs. : Sie haben Ihre Hausaufgaben gemacht.
+Ils ont mangé au restaurant. : Sie haben im Restaurant gegessen.
+Je vais au restaurant. : Ich gehe ins Restaurant.
+Nous avons fait nos devoirs. : Wir haben unsere Hausaufgaben gemacht.
+Il est allé chercher le pain. : Er ist zum Brot holen gegangen.
+Je vais faire les courses. : Ich werde einkaufen gehen.
+Tu as mangé au restaurant. : Du hast im Restaurant gegessen.
+Elle est allée au cinéma. : Sie ist ins Kino gegangen.
+J'ai fait les courses. : Ich habe eingekauft.
+Vous avez mangé avec ton ami. : Sie haben mit Ihrem Freund gegessen.
+Ils sont allés au cinéma. : Sie sind ins Kino gegangen.
+Je vais au restaurant avec mon ami. : Ich gehe ins Restaurant mit meinem Freund.
+Nous avons fait les courses avec ton ami. : Wir sind mit deinem Freund einkaufen gegangen.
+Ils ont mangé au restaurant avec leur ami. : Sie haben im Restaurant mit ihrem Freund gegessen.
+Tu es! : Mach es!
+Nous allons au cinéma ce soir. : Wir gehen heute Abend ins Kino.
+Je ne l'ai jamais vu. : Ich habe ihn noch nie gesehen.
+Oui, je le ferai. : Ja, ich werde es tun.
+Non, je ne le ferai pas. : Nein, ich werde es nicht tun.
+Je l'ai fait hier hier. : Ich habe es hier gemacht.
+Je voudrais un autre café, s'il vous plaît. : Ich möchte noch einen Kaffee, bitte.
+Je ne sais toujours pas. : Ich weiß immer noch nicht.
+Fais-le! : Mach es!
+Nous y allons maintenant. : Wir gehen jetzt.
+Je ne l'ai toujours pas vu. : Ich habe ihn immer noch nicht gesehen.
+Qu'est-ce que cela peut être? : Was könnte das sein?
+Je ne suis toujours pas d'accord. : Ich bin immer noch nicht einverstanden.
+Je ne comprends toujours pas. : Ich verstehe immer noch nicht.
+Je t'aime toujours. : Ich liebe dich immer noch.
+Oui, je le ferai toujours. : Ja, ich werde es immer tun.
+Non, je ne le ferai jamais. : Nein, ich werde es niemals tun.
+Je l'ai fait partout. : Ich habe es überall gemacht.
+Je ne sais jamais. : Ich weiß nie.
+Fais-le toujours! : Mach es immer!
+Nous n'y allons jamais. : Wir gehen nie.
+Qu'est-ce que cela pourrait être? : Was könnte das sein?
+J'aime les chats. : Ich mag Katzen.
+Il est midi. : Es ist Mittag.
+Tu as un chat? : Hast du eine Katze?
+Nous allons au marché. : Wir gehen zum Markt.
+Vous êtes fatigué? : Bist du müde?
+Je ne veux pas aller au cinéma. : Ich will nicht ins Kino gehen.
+Où est le marché? : Wo ist der Markt?
+Je cherche un chat. : Ich suche eine Katze.
+Je ne trouve pas mon chat. : Ich finde meine Katze nicht.
+Vous cherchez un chat? : Sie suchen eine Katze?
+Où est ton chat? : Wo ist deine Katze?
+Je l'ai perdu. : Ich habe sie verloren.
+Ce n'est pas grave. : Das macht nichts.
+Je voudrais rentrer chez moi. : Ich möchte nach Hause gehen.
+Je dois aller au travail. : Ich muss zur Arbeit gehen.
+Je vais être en retard. : Ich werde zu spät kommen.
+Je ne peux pas aller au travail. : Ich kann nicht zur Arbeit gehen.
+Je ne suis pas malade. : Ich bin nicht krank.
+Je ne travaille pas. : Ich arbeite nicht.
+Je ne suis pas en vacances. : Ich bin nicht im Urlaub.
+Vous êtes fatigué. : Sie sind müde.
+Elle danse. : Sie tanzt.
+Vous êtes malade. : Sie sind krank.
+Elle a un chien. : Sie hat einen Hund.
+Je vais faire une promenade. : Ich gehe einen Spaziergang machen.
+Nous faisons du vélo. : Wir fahren Fahrrad.
+Vous faites de la natation. : Sie schwimmen.
+Ils jouent au football. : Sie spielen Fußball.
+Tu as faim. : Du hast Hunger.
+Nous prenons une douche. : Wir duschen.
+Vous allez au travail. : Sie gehen zur Arbeit.
+Ils vont à l'école. : Sie gehen zur Schule.
+Je vais au bureau. : Ich gehe ins Büro.
+Vous allez au restaurant. : Sie gehen ins Restaurant.
+Ils vont au cinéma. : Sie gehen ins Kino.
+Tu vas au supermarché. : Du gehst zum Supermarkt.
+Je mange des bonbons. : Ich esse Bonbons.
+Tu achètes les livres. : Du kaufst Bücher.
+Il boit du lait. : Er trinkt Milch.
+Nous chantons une chanson. : Wir singen ein Lied.
+Vous lisez un livre. : Sie lesen ein Buch.
+Elle aime les bonbons. : Sie liebt Bonbons.
+Nous lisons un livre. : Wir lesen ein Buch.
+Tu chantes une chanson. : Du singst ein Lied.
+Vous avez un chat. : Sie haben eine Katze.
+Ils ont une voiture. : Sie haben ein Auto.
+Je joue au football. : Ich spiele Fußball.
+Tu as un ordinateur. : Du hast einen Computer.
+Il a un crayon. : Er hat einen Bleistift.
+Nous avons un crayon. : Wir haben einen Bleistift.
+Vous avez un stylo. : Sie haben einen Stift.
+Ils ont un stylo. : Sie haben einen Stift.
+Elle a un livre. : Sie hat ein Buch.
+Tu achètes des pommes. : Du kaufst Äpfel.
+Il boit de l'eau. : Er trinkt Wasser.
+Tu as acheté des fleurs. : Du hast Blumen gekauft.
+Elle a eu un accident. : Sie ist verunglückt.
+Je vais faire la cuisine. : Ich werde kochen.
+Tu vas jouer au football. : Du wirst Fußball spielen.
+Nous allons faire les courses. : Wir werden einkaufen gehen.
+Tu vas au cinéma. : Du gehst ins Kino.
+Nous allons au restaurant. : Wir gehen ins Restaurant.
+Je vais jouer au football. : Ich werde Fußball spielen.
+Vous êtes très intelligent. : Sie sind sehr intelligent.
+Tu es très jolie. : Du bist sehr hübsch.
+Il fait très froid aujourd'hui. : Es ist heute sehr kalt.
+Excusez-moi. : Entschuldigung.
+Je cherche un livre. : Ich suche ein Buch.
+Je suis d'accord. : Ich stimme zu.
+Où est la toilette? : Wo ist die Toilette?
+Combien ça coûte? : Wie viel kostet das?
+Je veux un autre café, s'il vous plaît. : Ich möchte noch einen Kaffee, bitte.
+Je ne sais pas encore. : Ich weiß noch nicht.
+Je ne suis pas sûr. : Ich bin nicht sicher.
+Vous êtes fous! : Ihr seid verrückt!
+Nous sommes amis. : Wir sind Freunde.
+Je parle français. : Ich spreche Französisch.
+Tu parles anglais? : Sprichst du Englisch?
+Oui, je parle anglais. : Ja, ich spreche Englisch.
+Non, je ne parle pas anglais. : Nein, ich spreche kein Englisch.
+Je vais à la piscine. : Ich gehe zum Schwimmen.
+Je vais à l'école. : Ich gehe zur Schule.
+Je vais au jardin. : Ich gehe in den Garten.
+Je vais faire les courses. : Ich gehe einkaufen.
+Je vais au musée. : Ich gehe ins Museum.
+Je vais au zoo. : Ich gehe in den Zoo.
+Je vais au parc. : Ich gehe in den Park.
+Je vais au concert. : Ich gehe zu einem Konzert.
+Je vais au théâtre. : Ich gehe ins Theater.
+Tu es chez moi. : Du bist bei mir zu Hause.
+Nous mangons ensemble. : Wir essen zusammen.
+Vous etes tres intelligent. : Sie sind sehr intelligent.
+Ils vont a l'ecole. : Sie gehen zur Schule.
+Elle a un petit ami. : Sie hat einen Freund.
+Je pense a toi. : Ich denke an dich.
+Nous avons un probleme. : Wir haben ein Problem.
+Tu es tres beau. : Du bist sehr schön.
+Je suis fatigue. : Ich bin müde.
+Vous avez faim? : Hast du Hunger?
+Nous sommes heureux. : Wir sind glücklich.
+Tu es malade. : Du bist krank.
+Je travaille demain. : Ich arbeite morgen.
+Nous allons au restaurant. : Wir gehen in ein Restaurant.
+Vous etes la. : Sie sind hier.
+Je voudrais un cafe. : Ich möchte einen Kaffee.
+Je rentre a la maison. : Ich gehe nach Hause.
+Je vais te chercher. : Ich hole dich ab.
+Je suis dans ma chambre. : Ich bin in meinem Zimmer.
+Je sors ce soir. : Ich gehe heute Abend aus.
+Je mange avec mes amis. : Ich esse mit meinen Freunden.
+Je veux aller a la plage. : Ich will an den Strand gehen.
+Je rentre chez moi. : Ich gehe nach Hause.
